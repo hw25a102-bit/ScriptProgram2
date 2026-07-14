@@ -1,8 +1,6 @@
 import pandas as pd
 import plotly.express as px
 
-# 日本語ラベルを表示するためにフォント指定は不要（Plotly はフォント埋め込みで対応可能）
-# 負の数のマイナス記号も Plotly 側で自動的に正しく表示されます。
 
 # ──────── CSVファイルのパス ────────
 csv_path = "data.csv"
